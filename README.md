@@ -1,4 +1,4 @@
-# google_stack_price
+
 # google_stock_price
 
 **Google Stock Price Prediction Using LSTM**
